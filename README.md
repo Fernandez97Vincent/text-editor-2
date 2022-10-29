@@ -1,1 +1,1 @@
-# text-editor-2
+# Text Editor Starter Code
